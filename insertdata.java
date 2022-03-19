@@ -44,8 +44,9 @@ public class insertdata {
 
         insertdata data = new insertdata();
         
-        data.insert("3 Idiots","Amir Khan","Kareena Kapoor",2009, "Rajkumar Hirani");
-        data.insert("Chhichhore","Sushant Singh Rajput","Shraddha Kapoor",2019, "Nitesh Tiwari");
+        data.insert("Cinderella", "Richard_Madden","Lily_James", 2015, "Kenneth_Branagh");
+        data.insert("3Idiots","Amir_Khan","Kareena_Kapoor",2009, "Rajkumar_Hirani");
+        data.insert("Chhichhore","Sushant_Singh_Rajput","Shraddha_Kapoor",2019, "Nitesh_Tiwari");
 	
     }
 
